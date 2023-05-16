@@ -10,6 +10,7 @@ const ResultPage = () => {
     const handleGoHome = () => {
         router.push('/');
       };
+      
     const handleDownload = () => {
         // Replace 'your-test-case.doc' with the actual filename of your test case
         const filename = 'your-test-case.doc';
