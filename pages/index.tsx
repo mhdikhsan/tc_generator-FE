@@ -81,7 +81,7 @@ const HomePage = () => {
                                 onClick={handleSendFile}
                                 className="bg-blue-500 text-white px-6 py-3 rounded-md cursor-pointer hover:bg-blue-600 font-sans mt-4 w-full"
                             >
-                                Send File
+                                Submit File
                             </button>
                         </div>
                     )}
